@@ -40,7 +40,7 @@ export default function Hero() {
 </a>
 
           <a
-  href="/Nida_Khan_Resume.pdf"
+  href="/nida-portfolio/Nida_Khan_Resume.pdf"
   download
   className="border-2 border-cyan-400 px-8 py-3 rounded-full hover:bg-cyan-400 hover:text-black transition"
 >
